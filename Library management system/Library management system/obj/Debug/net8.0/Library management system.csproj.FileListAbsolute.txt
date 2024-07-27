@@ -1,0 +1,14 @@
+D:\All Projects 2024\C#\Library management system\Library management system\obj\Debug\net8.0\Library management system.GeneratedMSBuildEditorConfig.editorconfig
+D:\All Projects 2024\C#\Library management system\Library management system\obj\Debug\net8.0\Library management system.AssemblyInfoInputs.cache
+D:\All Projects 2024\C#\Library management system\Library management system\obj\Debug\net8.0\Library management system.AssemblyInfo.cs
+D:\All Projects 2024\C#\Library management system\Library management system\obj\Debug\net8.0\Library management system.csproj.CoreCompileInputs.cache
+D:\All Projects 2024\C#\Library management system\Library management system\bin\Debug\net8.0\Library management system.exe
+D:\All Projects 2024\C#\Library management system\Library management system\bin\Debug\net8.0\Library management system.deps.json
+D:\All Projects 2024\C#\Library management system\Library management system\bin\Debug\net8.0\Library management system.runtimeconfig.json
+D:\All Projects 2024\C#\Library management system\Library management system\bin\Debug\net8.0\Library management system.dll
+D:\All Projects 2024\C#\Library management system\Library management system\bin\Debug\net8.0\Library management system.pdb
+D:\All Projects 2024\C#\Library management system\Library management system\obj\Debug\net8.0\Library management system.dll
+D:\All Projects 2024\C#\Library management system\Library management system\obj\Debug\net8.0\refint\Library management system.dll
+D:\All Projects 2024\C#\Library management system\Library management system\obj\Debug\net8.0\Library management system.pdb
+D:\All Projects 2024\C#\Library management system\Library management system\obj\Debug\net8.0\Library management system.genruntimeconfig.cache
+D:\All Projects 2024\C#\Library management system\Library management system\obj\Debug\net8.0\ref\Library management system.dll
