@@ -1,0 +1,14 @@
+D:\All Projects 2024\C#\Ramdom string and numbers\Ramdom string and numbers\bin\Debug\net8.0\Ramdom string and numbers.exe
+D:\All Projects 2024\C#\Ramdom string and numbers\Ramdom string and numbers\bin\Debug\net8.0\Ramdom string and numbers.deps.json
+D:\All Projects 2024\C#\Ramdom string and numbers\Ramdom string and numbers\bin\Debug\net8.0\Ramdom string and numbers.runtimeconfig.json
+D:\All Projects 2024\C#\Ramdom string and numbers\Ramdom string and numbers\bin\Debug\net8.0\Ramdom string and numbers.dll
+D:\All Projects 2024\C#\Ramdom string and numbers\Ramdom string and numbers\bin\Debug\net8.0\Ramdom string and numbers.pdb
+D:\All Projects 2024\C#\Ramdom string and numbers\Ramdom string and numbers\obj\Debug\net8.0\Ramdom string and numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\All Projects 2024\C#\Ramdom string and numbers\Ramdom string and numbers\obj\Debug\net8.0\Ramdom string and numbers.AssemblyInfoInputs.cache
+D:\All Projects 2024\C#\Ramdom string and numbers\Ramdom string and numbers\obj\Debug\net8.0\Ramdom string and numbers.AssemblyInfo.cs
+D:\All Projects 2024\C#\Ramdom string and numbers\Ramdom string and numbers\obj\Debug\net8.0\Ramdom string and numbers.csproj.CoreCompileInputs.cache
+D:\All Projects 2024\C#\Ramdom string and numbers\Ramdom string and numbers\obj\Debug\net8.0\Ramdom string and numbers.dll
+D:\All Projects 2024\C#\Ramdom string and numbers\Ramdom string and numbers\obj\Debug\net8.0\refint\Ramdom string and numbers.dll
+D:\All Projects 2024\C#\Ramdom string and numbers\Ramdom string and numbers\obj\Debug\net8.0\Ramdom string and numbers.pdb
+D:\All Projects 2024\C#\Ramdom string and numbers\Ramdom string and numbers\obj\Debug\net8.0\Ramdom string and numbers.genruntimeconfig.cache
+D:\All Projects 2024\C#\Ramdom string and numbers\Ramdom string and numbers\obj\Debug\net8.0\ref\Ramdom string and numbers.dll
