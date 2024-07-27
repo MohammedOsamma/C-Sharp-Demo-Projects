@@ -1,0 +1,14 @@
+D:\All Projects 2024\C#\ToDo List\ToDo List\bin\Debug\net8.0\ToDo List.exe
+D:\All Projects 2024\C#\ToDo List\ToDo List\obj\Debug\net8.0\ToDo List.GeneratedMSBuildEditorConfig.editorconfig
+D:\All Projects 2024\C#\ToDo List\ToDo List\obj\Debug\net8.0\ToDo List.AssemblyInfoInputs.cache
+D:\All Projects 2024\C#\ToDo List\ToDo List\obj\Debug\net8.0\ToDo List.AssemblyInfo.cs
+D:\All Projects 2024\C#\ToDo List\ToDo List\obj\Debug\net8.0\ToDo List.csproj.CoreCompileInputs.cache
+D:\All Projects 2024\C#\ToDo List\ToDo List\obj\Debug\net8.0\ToDo List.dll
+D:\All Projects 2024\C#\ToDo List\ToDo List\obj\Debug\net8.0\refint\ToDo List.dll
+D:\All Projects 2024\C#\ToDo List\ToDo List\obj\Debug\net8.0\ToDo List.pdb
+D:\All Projects 2024\C#\ToDo List\ToDo List\bin\Debug\net8.0\ToDo List.deps.json
+D:\All Projects 2024\C#\ToDo List\ToDo List\bin\Debug\net8.0\ToDo List.runtimeconfig.json
+D:\All Projects 2024\C#\ToDo List\ToDo List\bin\Debug\net8.0\ToDo List.dll
+D:\All Projects 2024\C#\ToDo List\ToDo List\bin\Debug\net8.0\ToDo List.pdb
+D:\All Projects 2024\C#\ToDo List\ToDo List\obj\Debug\net8.0\ToDo List.genruntimeconfig.cache
+D:\All Projects 2024\C#\ToDo List\ToDo List\obj\Debug\net8.0\ref\ToDo List.dll
