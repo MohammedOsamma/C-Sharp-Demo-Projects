@@ -1,0 +1,14 @@
+D:\All Projects 2024\C#\Quiz Game\Quiz Game\bin\Debug\net8.0\Quiz Game.exe
+D:\All Projects 2024\C#\Quiz Game\Quiz Game\bin\Debug\net8.0\Quiz Game.deps.json
+D:\All Projects 2024\C#\Quiz Game\Quiz Game\bin\Debug\net8.0\Quiz Game.runtimeconfig.json
+D:\All Projects 2024\C#\Quiz Game\Quiz Game\bin\Debug\net8.0\Quiz Game.dll
+D:\All Projects 2024\C#\Quiz Game\Quiz Game\bin\Debug\net8.0\Quiz Game.pdb
+D:\All Projects 2024\C#\Quiz Game\Quiz Game\obj\Debug\net8.0\Quiz Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\All Projects 2024\C#\Quiz Game\Quiz Game\obj\Debug\net8.0\Quiz Game.AssemblyInfoInputs.cache
+D:\All Projects 2024\C#\Quiz Game\Quiz Game\obj\Debug\net8.0\Quiz Game.AssemblyInfo.cs
+D:\All Projects 2024\C#\Quiz Game\Quiz Game\obj\Debug\net8.0\Quiz Game.csproj.CoreCompileInputs.cache
+D:\All Projects 2024\C#\Quiz Game\Quiz Game\obj\Debug\net8.0\Quiz Game.dll
+D:\All Projects 2024\C#\Quiz Game\Quiz Game\obj\Debug\net8.0\refint\Quiz Game.dll
+D:\All Projects 2024\C#\Quiz Game\Quiz Game\obj\Debug\net8.0\Quiz Game.pdb
+D:\All Projects 2024\C#\Quiz Game\Quiz Game\obj\Debug\net8.0\Quiz Game.genruntimeconfig.cache
+D:\All Projects 2024\C#\Quiz Game\Quiz Game\obj\Debug\net8.0\ref\Quiz Game.dll
